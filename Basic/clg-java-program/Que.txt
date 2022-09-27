@@ -1,1 +1,90 @@
+1. Write a program that produces the following output:
+Hello World!
+It's been nice knowing you.
+Goodbye world!
+2. State the order of evaluation of the operations in each of the following Java statements and
+implement them to show the value of x after each statement.
+(1) x = 7 + 3 * 6 / 2 – 1; (2) x = 2 % 2 + 2 * 2 – 2 / 2; (3) x = ( 3 * 9 * ( 3 + ( 9 * 3 / (3)
+) ) );
+3. Write an application that declares 5 integers, determines and prints the largest and smallest in
+the group.
+4. Write an application that declares 5 integers, calculates and print the average of these
+numbers.
+5. Write an application that declares two integers, determines whether the first is a multiple of
+the second and print the result. [ Hint : Use the remainder operator.]
+6. Write an application that calculates the product of the odd integers from 1 to 15.
+7. Write an application that evaluates the factorial of the integers from 1 to 5.
+8. Write an application Program to demonstrate your first object in java.
+9. Write an application Program to demonstrate all control statements(selection,iteration and
+transfer).
+10. Write an application Program to demonstrate Mehtod call activation records.
+11. Write an application Program to demonstrate Method overloading.
+12. Write an application for calculating Compound-interest (interest rate of 5% for 10 years) with
+for loop.
+13. Write an application for demonstrating with for-each loop.
+14. Write an application for demonstrate all shift operators.
+15. Modify the above compound-interest application to repeat its steps for interest rates of 5, 6, 7,
+8, 9 and 10%. Use a for loop to vary the interest rate.
+16. Write an application Program of factorial number.
+17. Write an application Program of fibonacci series.
+18. Write an application Program of armstrong number.
+19. WAP to determine whether an entered number is prime or not.
+20. WAP in java to implement Selection Sort Algo.
+21. WAP in java to implement Bubble Sort Algo.
+22. WAP in java to implement Binary Search Algo.
+23. WAP in java to demonstrate Stack class.
+24. WAP in java to demonstrate Anonymous Array.
+25. Write a Java program that randomly fill a 3 by 4 by 6 array and then prints the largest and
+smallest values in the array.
+26. WAP in java to demonstrate 3D Array.
+27. WAP in java to demonstrate VARANGS.
+28. WAP in java to demonstrate Scanner class.
+29. WAP in java to demonstrate Enumarated data type.
+30. Write an application that uses String method equals and equalsIgnoreCase to tests any two
+string objects for equality.
+31. Write an application that uses String method indexOf to determine the total number of
+occurrences of any given alphabet in a defined text.
+32. Write an application that uses String method concat to concatenate two defined strings.
+33. Write an application that finds the length of a given string.
+34. Write an application that uses String method charAt to reverse the string.
+35. Write an application that finds the substring from any given string using substring method and
+startsWith & endsWith methods.
+36. Write an application that changes any given string with uppercase letters, displays it , changes
+it back to lowercase letters and displays it.
+Program related to UNIT -II
+37. Create a class called Employee that includes three pieces of information as instance variables
+– a first name (type String), a last name (type String) and a monthly salary (double)
+38. Create a constructor in above class to initialize the three instance variables. Provide a get 
+method for each instance variable.
+39. Write a test application named EmployeeTest that demonstrates class Employee’s 
+capabilities. Create two employee objects and display each object’s yearly salary.
+40. Give each employee a 10% raise and display each Employee’s yearly salary again.
+41. Create a class Account with an instance variable balance (double). It should contain a 
+constructor that initializes the balance, ensure that the initial balance is greater than 0.0.
+42. Create two methods namely credit and getBalance. The first one adds the amount (passed as 
+parameter) to balance and does not return any data. The second method allows clients (i.e. the 
+other classes that use this class) to obtain the value of a particular Account object’s balance.
+43. Create class AccountTest to create and manipulate an Account object.
+44. Write another method debit in the above program that withdraws money from an Account.
+Ensure that the debit amount does not exceed the Account’s balance. In that case the balance 
+should be left unchanged and the method should print a message indicating “Debit amount 
+exceeded account balance”. Modify class AccountTest to test method debit.
+45. Write an application that reads a five digit integer and determine whether it is a palindrome 
+(digit that reads the same backward and forward eg. 12321, 45554 etc.) . display an error 
+message, if the number is no5 five digits long and allow the user to enter a new value.
+46. Write an application that reads three nonzero value entered by the user and determines and 
+prints sum, product, average, smallest & largest of three.
+47. Write an application that prompts the user for the radius of a circle and uses a method called 
+circleArea to calculate the area of the circle.
+48. Add another method in the above program circlePerimeter to calculate the perimeter of the 
+circle.
+49. Write an application to create a super class Employee with information first name & last name 
+and methods getFirstName(), getLastName() derive the sub-classes ContractEmployee and 
+RegularEmployee with the information about department, designation & method 
+displayFullName() , getDepartment, getDesig() to print the salary and to set department name
+& designation of the corresponding sub-class objects respectively.
+50. Derive sub-classes of ContractEmployee namely HourlyEmployee & WeeklyEmployee with 
+information number of hours & wages per hour, number of weeks & wages per week 
+respectively & method calculateWages() to calculate their monthly salary. Also override 
+getDesig () method depending on the type of contract employee.
 
