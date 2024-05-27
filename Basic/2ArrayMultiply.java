@@ -20,6 +20,7 @@ class  Array{
 			arr2[i] = sc.nextInt();
 		int lar = (a>b) ? a : b;
 		System.out.print("Multiply of array: ");
+		System.out.print("Multiply of array: ");
 		int mul[] = new int[lar];
 			
 		 int i=0,j=0,k=0;
